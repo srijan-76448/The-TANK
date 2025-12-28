@@ -4,6 +4,8 @@
 
 ## List Of Materials
 
+<div align="center">
+
 | Item Name                           | Price Per Unit (₹) | Quantity | Total Price (₹) |
 | :---------------------------------- | :----------------- | :------- | :-------------- |
 | Johnson Orange Grade-A Geared Motor | 400                | 2        | 800             |
@@ -16,6 +18,8 @@
 | FS-i6 Controller and Receiver       | 3600               | 1        | 3600            |
 | M3 Stand-Offs                       | 9                  | 4        | 36              |
 | M3 Screws                           | 10                 | 20       | 200             |
+
+</div>
 
 ## Electronics
 
